@@ -1,3 +1,17 @@
 body {
 background-color: rgb(255, 255, 251);
+font-family: 'Poppins', sans-serif;
 }
+
+.flex-container {
+    display: flex;
+  }
+
+  section, #main {
+    padding-right: 250px;
+    padding-left: 10px;
+  }
+
+  img {
+    padding-right: 60px;
+  }
